@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Andreitoledo.Demo.Mvc", "sr
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Identity", "Identity", "{AC715266-693B-4ADF-A88C-6E513AF8F04B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Andreitoledo.Demo.Auth", "src\Andreitoledo.Demo.Auth\Andreitoledo.Demo.Auth.csproj", "{08FD87DD-3552-4B7E-AA96-C1A85BDF00F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,12 +21,17 @@ Global
 		{777CD5B3-5F62-4B29-B631-F6AD811CD900}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{777CD5B3-5F62-4B29-B631-F6AD811CD900}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{777CD5B3-5F62-4B29-B631-F6AD811CD900}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08FD87DD-3552-4B7E-AA96-C1A85BDF00F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08FD87DD-3552-4B7E-AA96-C1A85BDF00F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08FD87DD-3552-4B7E-AA96-C1A85BDF00F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08FD87DD-3552-4B7E-AA96-C1A85BDF00F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{777CD5B3-5F62-4B29-B631-F6AD811CD900} = {065DFC88-B840-4B81-A19D-712BEE687465}
+		{08FD87DD-3552-4B7E-AA96-C1A85BDF00F4} = {AC715266-693B-4ADF-A88C-6E513AF8F04B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {862BDC78-B00C-4ED8-8713-DA332466E126}
