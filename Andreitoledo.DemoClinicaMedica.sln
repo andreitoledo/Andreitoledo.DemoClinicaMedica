@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Presentation", "1.Present
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Andreitoledo.Demo.Mvc", "src\Andreitoledo.Demo.Mvc\Andreitoledo.Demo.Mvc.csproj", "{777CD5B3-5F62-4B29-B631-F6AD811CD900}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Identity", "Identity", "{AC715266-693B-4ADF-A88C-6E513AF8F04B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
